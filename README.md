@@ -1,6 +1,8 @@
-##Project to create chefs and their restaurants
+# Graphql / sequelize / react
 
-###Using:
+## Project to add and show chefs and their restaurants.
+
+### Using:
 
 - Sequelize
 - React
